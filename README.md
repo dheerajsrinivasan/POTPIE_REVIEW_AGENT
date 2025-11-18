@@ -1,10 +1,9 @@
 # Github Code Review Agent
 
 An AI-powered system that automatically analyzes GitHub pull requests for:
-- **Code style** & formatting issues
-- **Potential bugs** & errors
-- **Performance** improvements
-- **Best practices** violations
+- **Performance enhancement**
+- **Improves Code style & formatting issues**
+- **Checks for Potential bugs & errors**
 
 Built with FastAPI, Celery, Redis, and LangGraph, supporting both OpenAI and Ollama LLMs.
 
@@ -25,10 +24,11 @@ Built with FastAPI, Celery, Redis, and LangGraph, supporting both OpenAI and Oll
 
 
 ## Prerequisites
-- Docker (for Redis)
-- GitHub Personal Access Token (optional)
-- Python 3.8+
-- [Ollama](https://ollama.ai/download) (if using local LLMs)
+- **Docker (for Redis)**
+- **GitHub Personal Access Token (optional)**
+- **Python 3.8+**
+- **[Ollama](if using local LLMs)**
+
 
 
 
