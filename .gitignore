@@ -1,0 +1,48 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variable files
+.env
+.env.*
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# Logs
+*.log
+
+# Unit test cache
+.pytest_cache/
+
+# MyPy and coverage reports
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Other temporary files
+*.swp
+*.bak
+*.tmp
